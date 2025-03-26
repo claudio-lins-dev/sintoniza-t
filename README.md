@@ -1,11 +1,12 @@
 # 📻 Sintoniza-T
 
-<div align="center">
-  <h3><a href="https://www.sintoniza-t.pt" target="_blank">www.sintoniza-t.pt</a></h3>
-</div>
 
 <div align="center">
   <img src="https://github.com/claudio-lins-dev/sintoniza-t/blob/main/assets/sintoniza-t_neg_hor.png?raw=true" width="350" />
+</div>
+
+<div align="center">
+  <h3><a href="https://www.sintoniza-t.pt" target="_blank">www.sintoniza-t.pt</a></h3>
 </div>
 
 ## 🎙 Sobre o projeto
