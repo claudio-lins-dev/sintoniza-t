@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/claudio-lins-dev/sintoniza-t/blob/main/assets/sintoniza-t-logo.png?raw=true" width="350" />
+  <img src="https://github.com/claudio-lins-dev/sintoniza-t/blob/main/assets/sintoniza-t_neg_hor.png?raw=true" width="350" />
 </div>
 
 ## 🎙 Sobre o projeto
